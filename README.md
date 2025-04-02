@@ -24,5 +24,4 @@ A clean implementation of a Binary Search Tree (BST) in C++ using linked nodes, 
 
 1. Clone the repository:
    ```bash
-   git clone 
-   cd bst-cpp
+   git clone https://github.com/hakim-254/BCS-225-BIT-122/tree/main 
